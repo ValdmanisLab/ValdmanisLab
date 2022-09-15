@@ -8,3 +8,4 @@ Our lab focuses on the following research goals:
 3. Develop gene therapy methods for safe and effective gene knockdown using recombinant adeno-associated viral vectors (AAVs) to target genes implicated in neurodegeneration.
 4. Perform mechanistic characterization of the role of microRNAs including miR-122 and an imprinted cluster of microRNAs at the DLK1-DIO3 locus  in the development of hepatocellular carcinoma.  
 
+Read more on our [lab website](https://sites.google.com/view/valdmanislab).
